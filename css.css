@@ -1,0 +1,41 @@
+body{
+  background-color: #FFF6F9;
+}
+#section1{
+  /* border: 1px solid red; */
+  background-color: white;
+  height: 100vh;
+}
+.capinha{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#capa{
+  width: 200px;
+}
+.cardd{
+  margin: 15px 10px 0px 10px;
+  margin-bottom: 5px;
+  margin-top: 15px;
+  border-radius: 10px;
+  background-color: white;
+
+}
+.card{
+  margin: 0px 10px 0px 10px;
+  margin-bottom: 5px;
+  border-radius: 10px;
+  background-color: white;
+}
+.card-header{
+   /* border: 1px solid red; */
+  /* width: 90vw; */
+  border-radius: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#botao{
+  color: black;
+}
