@@ -1,6 +1,54 @@
 body{
   background-color: #FFF6F9;
 }
+ul li a{
+  text-decoration: none;
+  color: inherit;
+  list-style-type: none;
+  margin-left: 0;
+}
+ul{
+  list-style-type: none;
+  margin-left: 0;
+}
+#te{
+  margin: 1px solid red;
+}
+
+
+#exampleModal3 .modal-body img {
+    width: 100%;
+    height: auto;
+    max-width: 100%; /* Garante que a imagem não ultrapasse a largura do modal */
+    display: block; /* Impede que a imagem tenha espaços em branco em torno dela */
+}
+#exampleModal2 .modal-body img {
+    width: 100%;
+    height: auto;
+    max-width: 100%; /* Garante que a imagem não ultrapasse a largura do modal */
+    display: block; /* Impede que a imagem tenha espaços em branco em torno dela */
+}
+#exampleModal .modal-body img {
+    width: 100%;
+    height: auto;
+    max-width: 100%; /* Garante que a imagem não ultrapasse a largura do modal */
+    display: block; /* Impede que a imagem tenha espaços em branco em torno dela */
+}
+
+
+.merda{
+  /* border: 1px solid red; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.mee{
+  /* border: 1px solid green; */
+  width: 300px;
+}
+#fofo{
+  border-radius: 5px;
+}
 #section1{
   /* border: 1px solid red; */
   background-color: white;
